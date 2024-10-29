@@ -1,0 +1,8 @@
+test
+package-lock.json
+node_modules
+.gitignore
+.prettierrc
+.prettierignore
+vite.config.ts
+tsconfig.json
